@@ -3,7 +3,10 @@
     <nuxt/>
   </div>
 </template>
-
+<style lang="scss">
+  @import './assets/scss/custom.scss';
+</style>
+<!--
 <style>
 html {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -50,4 +53,4 @@ html {
   background-color: #35495e;
 }
 </style>
-
+-->

@@ -31,7 +31,7 @@ export default {
   }
 }
 </script>
-
+<!--
 <style>
 .container {
   min-height: 100vh;
@@ -62,4 +62,4 @@ export default {
   padding-top: 15px;
 }
 </style>
-
+-->

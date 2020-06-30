@@ -21,3 +21,8 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
+    color1: #EF8227
+    color2: #E04218
+    color3: #793016
+    color4: #C4BBBC
+    color5: #282926
