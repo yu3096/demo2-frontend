@@ -1,1 +1,16 @@
 @import '~bootstrap/scss/bootstrap.scss';
+@import './font.scss';
+
+$main-font: Jeju-Gothic;
+
+html, body, #__nuxt, #__layout {
+  /*height: 100%;*/
+}
+body {
+  background-color: $primary;
+  font-family: $main-font;
+  font-weight: bold;
+}
+.container-fluid {
+  /*height: 100%;*/
+}

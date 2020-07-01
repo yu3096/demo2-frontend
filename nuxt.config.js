@@ -13,6 +13,12 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
   },
+  modules: ['@nuxtjs/style-resources'],
+  styleResources: {
+    scss: [
+      '~/assets/scss/vars/*.scss'
+    ]
+  },
   /*
   ** Customize the progress bar color
   */
